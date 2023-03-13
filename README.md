@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JsPeanut
 - 👀 I’m interested in coding!
-- 🌱 I’m currently learning HTML, CSS and JS.
+- 🌱 I’m currently learning C# and ASP.NET Core
 - 📫 How to reach me ...
 
 <!---
